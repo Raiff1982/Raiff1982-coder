@@ -1,0 +1,8 @@
+{
+    "model_name": "mistralai/Mistral-7B-Instruct-v0.2",
+    "max_input_length": 4096,
+    "safety_thresholds": {
+        "memory": 85,
+        "cpu": 90
+    }
+}
